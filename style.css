@@ -1,0 +1,28 @@
+body {
+	margin: 20px;
+	font-family: Verdana;
+}
+
+.avatar {
+	width: 150px;
+}
+
+.main {
+	display: flex;
+	justify-content: center;
+}
+
+.card {
+	width: 400px;
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+	text-align: center;
+	border-bottom: 5px solid;
+	border-color: gold;
+	background: #2b2839;
+}
+
+.border-blue {
+	color: white;
+}
